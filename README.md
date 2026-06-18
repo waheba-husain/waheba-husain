@@ -5,7 +5,7 @@
   🤖 Building NLP pipelines, deep learning models & generative AI systems<br/>
   🔗 Integrating LLMs into production-ready apps via REST APIs & scalable backends<br/>
   🏆 Finalist — Smallest AI Hackathon, San Francisco (Global)<br/>
-  📬 Reach me at <a href="mailto:wahebahusain117@gmail.com">wahebahusain117@gmail.com</a>
+  📬 Reach me at <a href="mailto:wahebahusain117@gmail.com">wahebahusain117@gmail.com</a> · 🌐 <a href="https://waheba-husain.github.io/Waheba-Husain-Portfolio/" target="_blank">Portfolio</a>
 </p>
 
 ---
