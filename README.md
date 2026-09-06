@@ -1,12 +1,29 @@
-<h1 align="center">Hi, I'm Waheba ✨</h1>
+<h1 align="center">Hi, I am Waheba Husain 👋</h1>
 
 <p align="center">
-  🎓 Computer Science undergrad, Software and AI developer<br/>
-  🤖 Building NLP pipelines, deep learning models & generative AI systems<br/>
-  🔗 Integrating LLMs into production-ready apps via REST APIs & scalable backends<br/>
+  🎓 B.Tech CS (AI/ML) undergrad @ Babu Banarasi Das University · CGPA 8.4<br/>
+  🤖 Building NLP pipelines, deep learning models & production-ready GenAI systems<br/>
+  🔗 Shipping LLMs into real apps via REST APIs and scalable backends<br/>
   🏆 Finalist — Smallest AI Hackathon, San Francisco (Global)<br/>
-  📬 Reach me at <a href="mailto:wahebahusain117@gmail.com">wahebahusain117@gmail.com</a> · 🌐 <a href="https://waheba-husain.github.io/Waheba-Husain-Portfolio/" target="_blank">Portfolio</a>
 </p>
+
+<p align="center">
+  <a href="https://waheba-husain.github.io/Waheba-Husain-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/waheba-husain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:wahebahusain117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## About Me
+
+I'm a final-year B.Tech Computer Science student and a full-stack AI/ML developer, focused on turning research-grade models into things people can actually use — deployed apps with real auth, real databases, and honest, tested metrics rather than inflated claims. Check out my full case studies and write-ups on my **[portfolio](https://waheba-husain.github.io/Waheba-Husain-Portfolio/)**.
 
 ---
 
@@ -61,24 +78,48 @@
 ---
 
 ## Featured Projects 🚀
+*(more detail + write-ups on my [portfolio](https://waheba-husain.github.io/Waheba-Husain-Portfolio/))*
+
+### 🎓 AI Campus Opp — AI-Powered Opportunity Discovery Platform
+> React · Node.js · Supabase · Groq LLM (LLaMA 3.3) · REST API
+
+Turns a resume into a living profile and ranks scattered campus opportunities (hackathons, internships, competitions) against it with **visible skill-gap reasoning**. Parses unstructured opportunity text (WhatsApp forwards, emails), generates gap-driven prep checklists, and tracks applications end-to-end via a persistent pipeline board (Saved → Preparing → Applied → Result). Backed by real auth, Postgres persistence, on-demand Devpost API data, and a caching layer that eliminates redundant LLM calls under strict rate limits. **Deployed:** React on Vercel, Node/Express on Render.
+
+### 🛡️ FraudPulse — Real-Time Fraud Spike Detector
+> Python · scikit-learn · Streamlit · Random Forest
+
+Fraud spike detection system for e-commerce merchants, built for Razorpay's AI Risk Manager hackathon track. Scores transactions with a trained Random Forest model, aggregates risk across rolling time windows, and flags abnormal spikes using two independently compared methods (ML-probability and adaptive z-score). Every result is backed by honest precision/recall/F1 metrics and false-positive/false-negative cost on a held-out test set, with per-window explainability instead of a black-box score.
 
 ### 🛡️ SentinelAI — Social Media Threat Detection
 > Python · RoBERTa · DistilBERT · Flask · REST API
 
 Real-time threat detection system using NLP and transformer models for multi-class classification of social media content. Fine-tuned RoBERTa & DistilBERT to **89%+ accuracy**, with an LLM-powered conversational assistant (Groq-hosted LLaMA) for emergency mental health support.
 
+### ⚡ DemandSense — Electricity Demand Forecasting
+> Python · Prophet · LSTM
+
+Forecasting system for electricity demand combining Prophet and LSTM models — built as a **Global Finalist project at the Smallest AI Hackathon, San Francisco**.
+
+### 🔗 URLify — URL Shortener with Analytics
+> Python · FastAPI · SQLAlchemy · SQLite · REST API
+
+Full-stack URL shortener that turns long links into short, shareable codes while giving users visibility into how those links perform. Supports auto-generated base62 codes (56.8B+ unique combinations) alongside custom aliases with duplicate-alias conflict handling, and tracks per-link click analytics — counts, timestamps, and originating IPs — via async background logging that keeps redirects fast. Backed by a normalized SQLite schema via SQLAlchemy designed to support custom aliases without sacrificing lookup integrity.
+
 ---
 
-### ⚡ DemandSense — Electricity Demand Forecasting
-> Python · Prophet · LSTM · NLP · EIA Datasets
+## Experience 💼
 
-Demand forecasting models benchmarking statistical vs. deep learning performance on 10+ years of hourly EIA energy data. Includes anomaly detection and a natural language query interface for trend insights.
+**Backend & AI Intern** — Upstride *(Mar–May 2026)*
+**Virtual AI Intern** — Infosys Springboard *(Feb–Apr 2026)*
 
 ---
 
 ## Let's Connect 🌐
 
 <p align="left">
+  <a href="https://waheba-husain.github.io/Waheba-Husain-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/waheba-husain">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
